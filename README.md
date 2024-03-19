@@ -90,7 +90,7 @@ Execute the program using runserver command.
             </tr>
     </body>
     <br>
-    <table border="2" cellspacing="7" cellpadding="7" width="100" height="30">
+    <table border="2" cellspacing="7" cellpadding="7" width="500" height="30">
         <tr>
             <th align="center" >S.No</th>
             <th align="center" >Subject code</th>
@@ -116,17 +116,17 @@ Execute the program using runserver command.
             <td align="center">19MA222</td>
             <td>PROBABILITY AND QUEUEING MODELS</td>
         </tr>
-        <tr align="center">
+        <tr>
             <td align="center">5.</td>
             <td align="center">19MA219</td>
             <td>TRANSFORMSAND ITS APPLICATIONS</td>
         </tr>
-        <tr align="center">
+        <tr>
             <td align="center">6.</td>
             <td align="center">19AI303</td>
             <td>ENGINEERING MECHANICS AND PRODUCT DEVELOPMENT</td>
         </tr>
-        <tr align="center">
+        <tr>
             <td align="center">7.</td>
             <td align="center">19EE404</td>
             <td>DIGITAL ELECTRONICS</td>
@@ -137,7 +137,7 @@ Execute the program using runserver command.
 </html>
 ```
 ## OUTPUT
-![alt text](<slot.time table-1.png>)
+
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
